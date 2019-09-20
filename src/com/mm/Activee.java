@@ -7,7 +7,7 @@ public class Activee
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Chrome browser  may be open wait");
+		System.out.println("Chrome browser on facebook code");
 		System.setProperty("webdriver.chrome.driver", "E:\\soft\\chrome_new\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/");
